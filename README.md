@@ -6,3 +6,6 @@ The dataset needs to be a set of 2D floorplans in png format. We have used the f
 
 After obtaining the 3d pointclouds, we used cloudcompare to showcase our results.
 
+Some of the data is already present.
+
+This is just part of the pipeline. The work we did with the 3d model can be seen here: https://github.com/pneug/lit
